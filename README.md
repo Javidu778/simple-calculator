@@ -30,3 +30,9 @@ If you are developing a production application, we recommend enabling type-aware
 ```
 
 See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+
+Sreenshots of the Calculator
+
+<img width="1393" height="881" alt="image" src="https://github.com/user-attachments/assets/a2ec1028-9a1e-4f9e-99c4-52c7fd2e182e" />
+
+
